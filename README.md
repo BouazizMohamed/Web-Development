@@ -1,0 +1,3 @@
+We have noticed that within our school, communication between resident students and staff is inefficient, and the complaints submitted by residents for issues in their rooms take a long time to receive a response from the staff. This is due to the lack of a professional alternative in information technology between students and the administration.
+
+Hence, the goal of our project titled "EPT Complaints" arises. This project is a website that allows each student and administration member to access a list of complaints and modify the content according to their needs and rights. Indeed, it enables students to submit complaints as well as requests for room changes. The administration can manage these complaints and requests by accepting or rejecting them with a simple click
